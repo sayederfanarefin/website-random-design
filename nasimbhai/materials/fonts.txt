@@ -1,0 +1,9 @@
+Fonts : 
+Header : Stencil Std Bold , One Starry Night , Adamas Regular
+
+Paragraph : Ravvi , Rockwell , Trebuchet MS 
+
+Download Link : 
+https://www.google.com/fonts
+
+
